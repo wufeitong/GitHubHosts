@@ -57,8 +57,8 @@ Linux 可直接运行 github_hosts
 23.100.27.125			github.dev
 185.199.108.133			media.githubusercontent.com
 # Last Update Time : 2022-04-23 21:01:33 
-# Github: https://github.com/malaohu/GitHubHosts 
-# Article: https://51.ruyo.net/17580.html 
+# Github: https://github.com/wufeitong/GitHubHosts
+# Article: xxxx
 ####################Github End####################
 
 ```
